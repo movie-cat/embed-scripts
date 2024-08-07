@@ -1,7 +1,6 @@
 // Author - Ciarán (Ciarands)
 // Date - 06/08/2024 (DD-MM-YYYY)
 // Version - 0.2.1 (min)
-// Hash (MD5) - ea3ab4d0f52e1e0172c92b297e5dddae 
 // Description - 
     // Based on Ciarands's fork of drblgn's "rabbit_wasm".
     // Modified to fit pythonmonkey WinterCG compatibility state at current date.
